@@ -1,0 +1,22 @@
+create stream
+{
+  "id": 0,
+  "streamId": "12333",
+  "streamName": "form 1",
+  "classes": [
+    {
+      "id": 0,
+      "classTeacher": "QWW",
+      "className": "form 1c",
+      "streamName": "form 1",
+      "students": [
+      
+      ],
+      "deleted": false
+    }
+  ],
+  "deleted": false,
+  "students": [
+    
+  ]
+}
