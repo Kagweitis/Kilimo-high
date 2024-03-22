@@ -1,4 +1,4 @@
-# Kilimo High Management System
+# Kilimo High School Management System
 
 Kilimo High School Management System is a Spring Boot application that manages student, class, and stream information for Kilimo High School.
 
