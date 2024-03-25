@@ -14,7 +14,7 @@ Kilimo High School Management System is a Spring Boot application designed to st
 
 Before running the application, ensure you have the following installed:
 
-- Java version 17
+- Java version 17 or higher
 - Maven 
 - MySQL Database
 
